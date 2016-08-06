@@ -3,7 +3,7 @@ body {
   font-size: 21px;
   font-weight: 200;
   color: #111;
-  background-color: #eee;
+  background-color: white;
 }
 
 p {
@@ -86,9 +86,7 @@ article {
 }
 
 #avatar img {
-  width: 80px;
-  border-radius: 100px;
-
+  width: 50%;
   display: block;
   margin: 0 auto;
   margin-bottom: 15px;
@@ -114,7 +112,7 @@ article {
   }
 
   #avatar img {
-    width: 140px;
+    width: 70%;
   }
 
   .icon img {
