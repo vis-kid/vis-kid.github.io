@@ -34,6 +34,10 @@ a:hover, .current {
   color: #3BC492;
 }
 
+#container a {
+  color: #3BC492;
+}
+
 #container a:hover {
   border-bottom: 1px solid #3BC492;
 }
