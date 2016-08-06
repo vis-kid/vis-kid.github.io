@@ -22,7 +22,7 @@ h1 a {
 }
 
 h1 a:hover {
-  color: #77B95F;
+  color: #3BC492;
 }
 
 a {
@@ -31,11 +31,11 @@ a {
 }
 
 a:hover, .current {
-  color: #77B95F;
+  color: #3BC492;
 }
 
 #container a:hover {
-  border-bottom: 1px solid #77B95F;
+  border-bottom: 1px solid #3BC492;
 }
 
 article {
