@@ -34,6 +34,10 @@ a:hover, .current {
   color: #77B95F;
 }
 
+#container a:hover {
+  border-bottom: 1px solid #77B95F;
+}
+
 article {
   padding-bottom: 10px;
 }
