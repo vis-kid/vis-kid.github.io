@@ -100,16 +100,6 @@ article {
   width: 40px;
 }
 
-a.icon {
-  width: 40px;
-  background-image: url('dribbble.png');
-}
-
-a.icon:hover {
-  width: 40px;
-  background-image: url('dribbble-hover.png');
-}
-
 #navigation {
   margin: 20px 0 0 0;
   font-size: 40px;
@@ -127,14 +117,6 @@ a.icon:hover {
 
   #avatar img {
     width: 70%;
-  }
-
-  .icon img {
-    width: 70px;
-  }
-
-  a.icon {
-    width: 70px;
   }
 
   #navigation {
