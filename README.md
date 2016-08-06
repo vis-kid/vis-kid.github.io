@@ -1,1 +1,1 @@
-[![](https://github.com/vis-kid/vis-kid.github.com/raw/master/screens/index.png)](https://vis-kid.github.io/)
+Forked from the great [Chris Hunt](https://github.com/chrishunt). Thx Chris!
