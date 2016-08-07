@@ -108,7 +108,7 @@ article {
 
 #navigation {
   margin: 20px 0 0 0;
-  font-size: 40px;
+  font-size: 25px;
 }
 
 @media (min-width: 1200px) {
@@ -119,12 +119,19 @@ article {
 
 @media (min-width: 888px) {
   #navigation {
-    margin: 40px 0 0 0;
+    margin: 40px 0 40px 0;
     font-size: 70px;
   }
 
   #avatar img {
     width: 70%;
+  }
+}
+
+@media (min-width: 600px) {
+  #navigation {
+    margin: 40px 0 0 0;
+    font-size: 50px;
   }
 }
 
