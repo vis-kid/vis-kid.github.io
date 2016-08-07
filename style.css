@@ -112,6 +112,14 @@ article {
 }
 
 /* Larger screens */
+@media (min-width: 888px) {
+  #navigation {
+    margin: 40px 0 0 0;
+    font-size: 70px;
+  }
+}
+
+/* Larger screens */
 @media (min-width: 710px) {
   #container {
     width: 700px;
@@ -127,6 +135,6 @@ article {
 
   #navigation {
     margin: 40px 0 0 0;
-    font-size: 70px;
+    font-size: 60px;
   }
 }
