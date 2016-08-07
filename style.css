@@ -111,11 +111,14 @@ article {
   font-size: 40px;
 }
 
-/* Larger screens */
 @media (min-width: 888px) {
   #navigation {
     margin: 40px 0 0 0;
     font-size: 70px;
+  }
+
+  #avatar img {
+    width: 70%;
   }
 }
 
@@ -129,12 +132,14 @@ article {
     font-size: 1.5em;
   }
 
-  #avatar img {
-    width: 70%;
-  }
-
   #navigation {
     margin: 40px 0 0 0;
     font-size: 60px;
+  }
+}
+
+@media (max-width: 888px) {
+  #avatar img {
+    width: 85%;
   }
 }
