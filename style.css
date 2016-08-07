@@ -111,6 +111,12 @@ article {
   font-size: 40px;
 }
 
+@media (min-width: 1200px) {
+  #avatar img {
+    max-width: 1000px;
+  }
+}
+
 @media (min-width: 888px) {
   #navigation {
     margin: 40px 0 0 0;
