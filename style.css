@@ -156,3 +156,7 @@ article {
     width: 85%;
   }
 }
+
+a.finished-os-projects {
+  text-decoration: line-through;
+}
